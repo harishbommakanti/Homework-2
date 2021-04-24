@@ -1,0 +1,8 @@
+# nb checkpts
+/.ipynb_checkpoints
+
+# MNIST specific stuff
+MNIST/
+
+# specific model data file
+mnist_net.pth
